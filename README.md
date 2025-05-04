@@ -96,7 +96,7 @@ handler.shutdown_all()
 ```
 
 
-#⚠️ Exceptions
+# ⚠️ Exceptions
 
 - ```HandlerInitError```
 - ```HandlerStatusError```
